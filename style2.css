@@ -1,0 +1,9 @@
+.tables {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.group {
+  border: 1px solid black;
+  margin: 10px;
+}

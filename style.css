@@ -1,0 +1,54 @@
+body {
+  font-family: serif;
+  text-align: center;
+  background-color: #CFFFFF;
+}
+
+h2{
+  font-size: 26px;
+}
+
+h3{
+  font-size: 20px;
+}
+
+p{
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.a{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  font-size: 17px;
+  color: red;
+  font-weight: bold;
+  border: 2px solid orange;
+  background-color: #FDD966;
+}
+
+.Grupox{
+  text-align: left;
+  font-size: 35px;
+  color: #681C7C;
+}
+header{
+  color: blue;
+}
+
+input{
+  font-size: 17px;
+}
+
+.match_list{
+  border: 1px solid violet;
+  background-color: #E3B1D2;
+}
+
+.match {
+  border: 1px solid gray;
+  margin: 3px;
+  padding: 5px;
+  box-shadow: 1px 1px gray;
+  background-color: #FFFF81;
+}
