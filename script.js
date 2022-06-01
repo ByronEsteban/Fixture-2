@@ -1,8 +1,12 @@
 let groups = [
   ['A', ['Qatar', 'Ecuador', 'Senegal', 'Paises Bajos']],
-  ['B', ['Inglaterra', 'Iran', 'EEUU', 'Gales']],
-  ['C', ['Argentina', 'A. Saudita', 'Mexico', 'Polonia']],
-  ['D', ['Francia', 'Peru', 'Dinamarca', 'Tunez']]
+  ['B', ['Inglaterra', 'Irán', 'EEUU', 'Gales']],
+  ['C', ['Argentina', 'A. Saudita', 'México', 'Polonia']],
+  ['D', ['Francia', 'Perú', 'Dinamarca', 'Túnez']],
+  ['E', ['España', '???', 'Alemania', 'Japón']],
+  ['F', ['Bélgica', 'Canadá', 'Marruecos', 'Croacia']],
+  ['G', ['Brasil', 'Serbia', 'Suiza', 'Camerún']],
+  ['H', ['Portugal', 'Ghana', 'Uruguay', 'Corea del Sur']]
 ];
 let cols = ['Equipos', 'PJ', 'PG', 'PE', 'PP', 'GF', 'GE', 'DG', 'Pts'];
 
