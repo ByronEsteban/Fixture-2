@@ -1,3 +1,7 @@
+body{
+  background-color: #F5F5F5;
+}
+
 .tables {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -22,4 +26,31 @@ th{
 }
 tr{
   background-color: #E0E0E0;
+}
+
+h4{
+  font-size: 28px;
+  text-align: center;
+  background-color: purple;
+  color: white;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+hr{
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+input{
+  font-size: 19px;
+  margin: 2px;
+  text-align: center;
+}
+
+.matches{
+  color: blue;
+  font-weight: bold;
+  font-size: 24px;
+  text-align: center;
 }
